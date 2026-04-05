@@ -30,7 +30,7 @@ Sistema pessoal de controle financeiro com autenticação JWT, desenvolvido com 
 - Alertas animados de erro e sucesso
 - Página 404 personalizada
 
-## 🚀 Como rodar o projeto
+## Como rodar o projeto
 
 ### Pré-requisitos
 - Node.js
