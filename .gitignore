@@ -1,0 +1,5 @@
+node_modules/
+.vs/
+backend/bin/
+backend/obj/
+backend/**/appsettings.json
