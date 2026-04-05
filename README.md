@@ -71,3 +71,11 @@ npm run dev
 ```
 
 O frontend estará disponível em `http://localhost:5173`
+
+## Variáveis de ambiente
+
+Não suba o `appsettings.json` com dados reais para o repositório (para segurança da sua aplicação). Use variáveis de ambiente em produção.
+
+## Licença
+
+Este projeto é de uso pessoal.
